@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/b_background.xml" value="0.1305" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/button_background.xml" value="0.1305" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/buttons.xml" value="0.152" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/c_background.xml" value="0.144" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/card_b.xml" value="0.1305" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/card_button.xml" value="0.1305" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/classes.xml" value="0.152" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/hBackground.xml" value="0.1595" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/h_background.xml" value="0.1595" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/ic_wave.xml" value="0.1595" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/ic_wave__1_.xml" value="0.1595" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/nav_background.xml" value="0.264" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/spinner_background.xml" value="0.1595" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/wave__1.xml" value="0.1695" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/wave__2_.xml" value="0.155" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/drawable/wave__3.xml" value="0.1" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_create_assignment.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_create_sub.xml" value="0.1627465857359636" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_dashboard.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_first.xml" value="0.2234375" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_join.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_marks.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_meeting.xml" value="0.176" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_meeting2.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_meeting_class.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_notification.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_report.xml" value="0.16923076923076924" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_report_card.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_scomplete.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_student_assignments.xml" value="0.176" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_submit_marks.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_teacher_assignment.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_teacher_list.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_teacher_meeting.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_teacher_meeting_class.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_teacher_meeting_list.xml" value="0.16923076923076924" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_tquestions.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_tquestions2.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/activity_tquestions3.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/admin_dash.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/assign_card.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/card2_layout.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/card_layout.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/class_item.xml" value="0.2234375" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/dash_menu.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_admin.xml" value="0.152" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_class.xml" value="0.176" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_dashboard.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_home.xml" value="0.176" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_join.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_profile.xml" value="0.16276041666666666" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_q.xml" value="0.2234375" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/fragment_teacher.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/login_prompt.xml" value="0.18247863247863247" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/marks_card.xml" value="0.18247863247863247" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/meeting_card.xml" value="0.18247863247863247" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/nav_background.xml" value="0.18247863247863247" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/nav_menu.xml" value="0.4189453125" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/profile_dash.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/questions.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/s_questions.xml" value="0.2" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/student_desc.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/t_subject.xml" value="0.18247863247863247" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/teacher_card.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/layout/teacher_dash.xml" value="0.18333333333333332" />
+        <entry key="..\:/MyClassRoomFoundation/app/src/main/res/menu/menu.xml" value="0.2234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

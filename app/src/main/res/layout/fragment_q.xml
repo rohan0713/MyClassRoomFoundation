@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".homeFragment">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+           <androidx.constraintlayout.widget.ConstraintLayout
+               android:id="@+id/layout1"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <com.google.android.material.imageview.ShapeableImageView
+                   android:id="@+id/logo"
+                   android:layout_width="60dp"
+                   android:layout_height="60dp"
+                   android:layout_marginStart="16dp"
+                   android:layout_marginTop="16dp"
+                   android:padding="5dp"
+                   android:src="@drawable/logo"
+                   app:layout_constraintStart_toStartOf="parent"
+                   app:layout_constraintTop_toTopOf="parent"
+                   app:shapeAppearanceOverlay="@style/roundedImageViewRounded"
+                   app:strokeWidth="2dp" />
+
+               <ImageView
+                   android:id="@+id/menu"
+                   android:layout_width="30dp"
+                   android:layout_height="40dp"
+                   android:layout_marginTop="16dp"
+                   android:layout_marginEnd="16dp"
+                   android:src="@drawable/menu"
+                   app:layout_constraintEnd_toEndOf="parent"
+                   app:layout_constraintTop_toTopOf="parent"
+                   app:tint="@color/black" />
+           </androidx.constraintlayout.widget.ConstraintLayout>
+
+           <RelativeLayout
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content">
+
+               <TextView
+                   android:id="@+id/qtext"
+                   android:layout_marginTop="20dp"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_centerHorizontal="true"
+                   android:text="QnA Forum"
+                   android:textColor="@color/black"
+                   android:textSize="34sp"
+                   android:textStyle="bold" />
+
+               <TextView
+                   android:id="@+id/qtext2"
+                   android:layout_width="match_parent"
+                   android:layout_height="wrap_content"
+                   android:layout_below="@id/qtext"
+                   android:layout_marginLeft="20dp"
+                   android:layout_marginTop="15dp"
+                   android:layout_marginRight="20dp"
+                   android:text="Get your queries solved and help peers also by sharing your knowledge on our Q+A forum\nSign Up to Ask and Answer Questions"
+                   android:textAlignment="center"
+                   android:textColor="@color/black"
+                   android:textSize="20sp" />
+
+               <Button
+                   android:id="@+id/ask"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_below="@id/qtext2"
+                   android:layout_centerHorizontal="true"
+                   android:backgroundTint="#C92E2E"
+                   android:layout_marginTop="25dp"
+                   android:text="Ask A Question" />
+
+               <ImageView
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_below="@id/ask"
+                   android:layout_centerHorizontal="true"
+                   android:src="@drawable/why"
+                   />
+           </RelativeLayout>
+       </LinearLayout>
+   </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
